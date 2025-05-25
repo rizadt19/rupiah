@@ -1,0 +1,11 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.3.1' apply false // Use a recent stable version
+    id 'com.android.library' version '7.3.1' apply false // Use a recent stable version
+    id 'org.jetbrains.kotlin.android' version '1.7.20' apply false // Use a compatible Kotlin version
+    id 'com.google.devtools.ksp' version '1.7.20-1.0.8' apply false // KSP plugin
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

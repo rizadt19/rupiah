@@ -1,0 +1,27 @@
+<resources>
+    <string name="user_guide_title">User Guide</string>
+
+    <string name="user_guide_welcome_title">Welcome!</string>
+    <string name="user_guide_welcome_text">Welcome to EduRupiah AR!</string>
+
+    <string name="user_guide_main_feature_title">How It Works</string>
+    <string name="user_guide_main_feature_text">Point your camera at an Indonesian Rupiah note placed on a flat surface. The app will try to detect it and show you information about its features and history.</string>
+
+    <string name="user_guide_ar_interaction_title">Interacting with AR Cards</string>
+    <string name="user_guide_ar_interaction_text">Once an information card appears in AR, you can tap and drag it to move it around. Use two fingers to pinch-to-zoom to resize the card.</string>
+
+    <string name="user_guide_quiz_mode_title">Quiz Mode</string>
+    <string name="user_guide_quiz_mode_text">Tap the \'Start Quiz\' button to test your knowledge about Indonesian Rupiah! When in quiz mode, tap the screen where you would normally see a currency (or on a detected plane). A currency card will appear along with a question. Select your answer from the options provided.</string>
+
+    <string name="user_guide_ml_kit_feedback_title">What the App Sees</string>
+    <string name="user_guide_ml_kit_feedback_text">The \'ML Output: ...\' text at the bottom of the screen shows general objects and patterns the app\'s image recognition currently sees. This helps the app decide when to show currency information.</string>
+
+    <string name="user_guide_troubleshooting_title">Tips for Best Results</string>
+    <string name="user_guide_troubleshooting_text">- Ensure good, even lighting on the currency note.\n- Hold your camera steady.\n- Flat, unfolded notes work best for detection.\n- Try different angles if detection is slow.</string>
+
+    <string name="user_guide_permissions_title">Permissions</string>
+    <string name="user_guide_permissions_text">This app requires Camera permission to provide the Augmented Reality experience and to analyze currency notes. Internet permission may be used for future updates or model downloads.</string>
+
+    <string name="user_guide_disclaimer_title">Disclaimer</string>
+    <string name="user_guide_disclaimer_text">This app is for educational purposes only and should not be used for counterfeit detection or financial transactions.</string>
+</resources>
